@@ -22,6 +22,8 @@ local.properties
 *.exe
 *.SCC
 *.vbw
+*.txt
+
 # Locally stored "Eclipse launch configurations"
 *.launch
 
