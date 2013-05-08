@@ -20,7 +20,7 @@ local.properties
 .externalToolBuilders/
 # EXclude EXES
 *.exe
-
+*.SCC
 # Locally stored "Eclipse launch configurations"
 *.launch
 
