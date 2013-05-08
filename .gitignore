@@ -21,6 +21,7 @@ local.properties
 # EXclude EXES
 *.exe
 *.SCC
+*.vbw
 # Locally stored "Eclipse launch configurations"
 *.launch
 
