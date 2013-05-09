@@ -8,6 +8,6 @@
 		<xsl:copy>
 			<xsl:apply-templates select="@* | node()"/>
 		</xsl:copy>
-    <xsl:comment>Don't know</xsl:comment>
+    <xsl:comment>Don't know - changed</xsl:comment>
 	</xsl:template>
 </xsl:stylesheet>
